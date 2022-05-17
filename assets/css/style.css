@@ -1,0 +1,22 @@
+body{
+	font-family:helvetica;
+}
+
+header{
+	text-align:center;
+	background-color:#000;
+	color:#fff;
+}
+
+th{
+	background-color:#000;
+	color:#fff;
+}
+
+td{
+	text-align:center;
+	background-color:rgb(240, 240, 240);
+}
+
+
+
